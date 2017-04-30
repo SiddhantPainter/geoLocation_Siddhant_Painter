@@ -1,0 +1,81 @@
+﻿section {
+    margin-bottom: 30px;
+}
+
+.website {
+	width: 60%;
+    margin: 5px 10px;
+    display:inline-block;
+}
+
+.dashboard h4 + button {
+    margin-left: 10px;
+}
+
+table > tbody > tr > td:nth-child(1) {
+    text-align: left;
+}
+
+table > tbody > tr > td:nth-child(2) {
+    width: 60%;
+    color: red;
+}
+
+table > tbody > tr > td:nth-child(3) {
+    text-align: right;
+}
+
+table.empty .help {
+    visibility: hidden;
+}
+
+table {
+    border: 1px solid lightgray;
+}
+
+#googleMap
+{
+    width: 100%;
+    height: 400px;
+}
+
+/***
+* Customized By [Painter]
+*/
+
+#displayHistory > tbody > tr > td:nth-child(1) {
+    text-align: left;
+}
+
+#displayHistory > tbody > tr > td:nth-child(2) {
+    width: 45%;
+    color: lightBlue;
+}
+
+#displayHistory > tbody > tr > td:nth-child(3) {
+    text-align: left;
+}
+#historyCenter{
+	width:100%;
+}
+.history:hover{
+	cursor: pointer;
+}
+#messageCenter{
+	height:20px;
+}
+.fade-out{
+	color:red;
+	margin-left:2%;
+}
+
+
+
+
+
+
+
+
+
+
+
