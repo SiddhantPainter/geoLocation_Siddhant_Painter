@@ -6,3 +6,7 @@ This project has been tested on following browers :
 * Avast Safezone Browser Version:	3.55.2393.596
 
 This project has been developed by Siddhant Painter.
+
+# To run
+
+Download Repo and run index.html and SpecRunner.html
